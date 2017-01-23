@@ -14,9 +14,9 @@ Bài này chỉ cách sử dụng php , cài websever ảo.cách cài	**wampp**,
 
 bài này cung cấp 1 số câu hỏi
 
-- ** PHP cơ bản bài 2: Nhúng PHP vào trang HTML**
+- **PHP cơ bản bài 2: Nhúng PHP vào trang HTML**
 
-giới thiệu 1 số cái cách hoạt động ví dụ trên đki mail, hàm `echo = print` 
+giới thiệu 1 số cái cách hoạt động ví dụ trên đki mail, hàm `echo ,print` 
 
 - **PHP cơ bản bài 3: Biến và chú thích**
 
@@ -39,4 +39,23 @@ chỉnh sửa đoạn code sao cho đẹp
 - **PHP cơ bản bài 8: sử dụng echo, print**
 
 sử dụng hàm echo và print, in ra chuỗi
+
+- **PHP cơ bản bài 18: biểu thức so sánh**
+
+biều thức >,<,=>=,<=, chuỗi khác rỗng =true, số nguyên khác 0=true
+- **PHP cơ bản bài 19: biểu thức so sánh ===**
+
+=== so sánh giá trị và kiểu số liệu của biến
+
+- **PHP cơ bản bài 20: biểu thức quan hệ (logic)**
+
+biểu thức logic giống C
+
+- **PHP cơ bản bài 21: hàm die và exit**
+
+thoát khỏi ct báo lỗi `die(); hàm exit();` mọi câu lệnh sau lệnh này k hoạt động
+
+
+
+
 
