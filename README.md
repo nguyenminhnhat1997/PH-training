@@ -55,7 +55,11 @@ biểu thức logic giống C
 
 thoát khỏi ct báo lỗi `die(); hàm exit();` mọi câu lệnh sau lệnh này k hoạt động
 
-
-
+- **PHP cơ bản bài 22: vòng lặp do while**
+vòng lặp
+```
+do{ câu lệnh biểu thức}
+while(điều kiện);
+```
 
 
