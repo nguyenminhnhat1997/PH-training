@@ -40,6 +40,28 @@ chỉnh sửa đoạn code sao cho đẹp
 
 sử dụng hàm echo và print, in ra chuỗi
 
+- **PHP cơ bản bài 10: echo/print mã html 2**
+
+- **PHP cơ bản bài 11: biểu thức nối chuỗi **
+
+eho $chuoi1.$chuoi2; or eho $chuoi1,$chuoi2;
+
+- **PHP cơ bản bài 12: nhúng php vào trang html**
+
+cấu trúc php
+
+- **PHP cơ bản bài 13: biểu thức điều kiện if else**
+
+giống C.
+
+- **PHP cơ bản bài 15: biểu thức gán**
+
+gán biểu thức
+
+- **PHP cơ bản bài 17: toán tử tăng và giảm (increment and decrement operator)**
+
+PHP cơ bản bài 19: biểu thức so sánh ===
+
 - **PHP cơ bản bài 18: biểu thức so sánh**
 
 biều thức >,<,=>=,<=, chuỗi khác rỗng =true, số nguyên khác 0=true
