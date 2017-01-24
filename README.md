@@ -61,5 +61,7 @@ vòng lặp
 do{ câu lệnh biểu thức}
 while(điều kiện);
 ```
+- **PHP cơ bản bài 23: vòng lặp while**
+
 
 
