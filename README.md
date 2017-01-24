@@ -42,7 +42,7 @@ sử dụng hàm echo và print, in ra chuỗi
 
 - **PHP cơ bản bài 10: echo/print mã html 2**
 
-- **PHP cơ bản bài 11: biểu thức nối chuỗi **
+- **PHP cơ bản bài 11: biểu thức nối chuỗi**
 
 eho $chuoi1.$chuoi2; or eho $chuoi1,$chuoi2;
 
@@ -84,6 +84,31 @@ do{ câu lệnh biểu thức}
 while(điều kiện);
 ```
 - **PHP cơ bản bài 23: vòng lặp while**
+
+```
+while( điều kiện)//nếu đúng
+{
+câu lệnh
+}
+```
+- **PHP cơ bản bài 24: vòng lặp for**
+
+giống C
+
+- **PHP cơ bản bài 25: break và continue**
+
+break kết thúc luôn , còn continue bỏ qua khi = điều kiện
+
+- **PHP cơ bản bài 26: cấu trúc rẽ nhánh switch**
+
+Giống C
+- **PHP cơ bản bài 27: expression matching**
+
+kiểm tra tính hợp lệ data
+
+<img src="http://image.prntscr.com/image/f3f1461178654da7855ccd55d4c305ff.png">
+
+
 
 
 
