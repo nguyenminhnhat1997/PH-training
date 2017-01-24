@@ -108,6 +108,11 @@ kiểm tra tính hợp lệ data
 
 <img src="http://image.prntscr.com/image/f3f1461178654da7855ccd55d4c305ff.png">
 
+preg_match('[0-9]) tìm số từ 0 tới 9 trong chuôi
+
+
+preg_match('[a-zA-Z]) tìm kí tự 
+
 
 
 
