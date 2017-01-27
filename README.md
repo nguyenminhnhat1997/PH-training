@@ -113,6 +113,18 @@ preg_match('[0-9]) tìm số từ 0 tới 9 trong chuôi
 
 preg_match('[a-zA-Z]) tìm kí tự 
 
+- **PHP cơ bản bài 28: hàm (function)**
+
+```
+function tên()
+{
+câu lệnh;
+}
+```
+- **PHP cơ bản bài 29: hàm với tham số**
+
+- **PHP cơ bản bài 30: hàm với giá trị trả về**
+
 
 
 
