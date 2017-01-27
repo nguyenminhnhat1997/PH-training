@@ -124,6 +124,12 @@ câu lệnh;
 - **PHP cơ bản bài 29: hàm với tham số**
 
 - **PHP cơ bản bài 30: hàm với giá trị trả về**
+return trả về giá trị;
+
+<img src="http://image.prntscr.com/image/e2673293dbb54d0cb131e2a531408c48.png">
+
+- **PHP cơ bản bài 31: biến toàn cục và biến cục bộ**
+
 
 
 
