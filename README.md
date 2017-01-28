@@ -153,6 +153,22 @@ phép toán.
 
 - **PHP 5 Arrays**
 
+<img src="http://image.prntscr.com/image/a141dbbe6d004d0999dec234b07cc070.png">
+
+- **PHP 5 sorting array**
+
+|sort () -| mảng sắp xếp trong thứ tự tăng dần|
+|-----------------|---------------------------|
+|rsort () |mảng sắp xếp trong thứ tự giảm dần 
+
+|asort () -| loại mảng kết hợp trong thứ tự tăng dần, theo giá trị|
+
+|ksort () -| loại mảng kết hợp trong thứ tự tăng dần, theo chìa khóa|
+
+|arsort () - |loại mảng kết hợp trong thứ tự giảm dần, theo giá trị|
+
+|krsort () - |loại mảng kết hợp trong thứ tự giảm dần, theo chìa khóa|
+
 
 
 
