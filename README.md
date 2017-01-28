@@ -130,6 +130,31 @@ return trả về giá trị;
 
 - **PHP cơ bản bài 31: biến toàn cục và biến cục bộ**
 
+##W3school
+- **PHP 5 Strings**
+Chuỗi , `strlen(PHP)=lens(python)`
+
+str_word_count(đếm từ);
+
+strrev( đảo ngc chuôi);
+
+strpos(tìm vị trí của từ);`echo strpos("Hello world!", "world"); // outputs 6`
+
+str_replace(thay thế);
+
+- **PHP 5 Constants**
+
+<img src="http://image.prntscr.com/image/3b67340ff7fa4e138214f00dde9c9bb6.png">
+
+- **PHP 5 Operators**
+
+phép toán.
+- **PHP 5 if...else...elseif Statements**
+
+- **PHP 5 Arrays**
+
+
+
 
 
 
